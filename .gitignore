@@ -88,3 +88,4 @@ local_settings.py
 __pycache__
 .env
 #db.sqlite3
+*migrations
